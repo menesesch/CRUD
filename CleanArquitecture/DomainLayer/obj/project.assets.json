@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\DomainLayer.vbproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\DomainLayer.vbproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",

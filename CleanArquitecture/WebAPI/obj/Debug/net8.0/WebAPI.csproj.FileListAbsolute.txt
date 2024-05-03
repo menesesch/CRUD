@@ -30,3 +30,8 @@ C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\obj\Debug\ne
 C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\WebAPI\bin\Debug\net8.0\DomainLayer.pdb

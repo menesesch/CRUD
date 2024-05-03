@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\Usuario\Desktop\Repositorios\CRUD\CleanArquitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

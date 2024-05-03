@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "doEvEbDZEDZWrt+m0dcUUBEO5WI43FIQO6/gjyIwMEkozas282s0X/moTUzQzXlywXeOvlvVtatoM88FZUQcmA==",
+  "dgSpecHash": "8BKUt2dyvy1Oxo4bz9Qxtdy14PD6VlSK2aV4jbDyt54gEtsaKdCfPdkZnp77bYYTAYY3j2wVqIfZtKYd6NSp/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\ApplicationLayer.vbproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\ApplicationLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
