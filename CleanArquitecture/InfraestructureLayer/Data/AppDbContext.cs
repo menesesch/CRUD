@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DomainLayer.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,6 @@ namespace InfraestructureLayer.Data
         {
         }
 
-        public DbSet<AppDbContext> Employees { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
