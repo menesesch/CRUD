@@ -1,6 +1,6 @@
 using ApplicationLayer.Contracts;
-using InfraestructureLayer.Implementations;
 using InfraestructureLayer.Data;
+using InfraestructureLayer.Implementations;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

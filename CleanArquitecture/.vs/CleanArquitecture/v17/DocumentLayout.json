@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40ED0174-6AEA-4659-93EF-84D0635D33D6}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40ED0174-6AEA-4659-93EF-84D0635D33D6}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{40ED0174-6AEA-4659-93EF-84D0635D33D6}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\applicationlayer\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ED0174-6AEA-4659-93EF-84D0635D33D6}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\infraestructurelayer\\infraestructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\infraestructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\infraestructurelayer\\implementations\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B22EAF3A-5DA4-43B6-9040-49BE5F17ADB2}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\implementations\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{573718C9-4DA1-4BA4-9C79-D90F35290C9A}|DomainLayer\\DomainLayer.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573718C9-4DA1-4BA4-9C79-D90F35290C9A}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\desktop\\repositorios\\crud\\cleanarquitecture\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2108A8-4933-4E82-90C2-78E52D037B67}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T16:41:11.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T16:38:01.67Z",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:32:39.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "InfraestructureLayer\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "InfraestructureLayer\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T21:03:49.471Z",
+              "DocumentIndex": 0,
+              "Title": "ApplicationLayer",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeDocumentMoniker": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeToolTip": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T15:30:57.11Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\Implementations\\EmployeeRepo.cs",
-              "RelativeDocumentMoniker": "InfraestructureLayer\\Implementations\\EmployeeRepo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\Implementations\\EmployeeRepo.cs",
-              "RelativeToolTip": "InfraestructureLayer\\Implementations\\EmployeeRepo.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:57:57.928Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InfraestructureLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\InfraestructureLayer.csproj",
-              "RelativeDocumentMoniker": "InfraestructureLayer\\InfraestructureLayer.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\InfraestructureLayer\\InfraestructureLayer.csproj",
-              "RelativeToolTip": "InfraestructureLayer\\InfraestructureLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T20:57:24.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\DomainLayer\\Entities\\Employee.cs",
-              "RelativeToolTip": "DomainLayer\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorios\\CRUD\\CleanArquitecture\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wDgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:43:21.958Z",
+              "WhenOpened": "2024-05-10T14:55:20.673Z",
               "EditorCaption": ""
             }
           ]
